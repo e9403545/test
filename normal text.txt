@@ -1,1 +1,7 @@
-just stuff
+name  = "cat"
+
+def my_function: 
+    age = 13
+
+
+my_function()
